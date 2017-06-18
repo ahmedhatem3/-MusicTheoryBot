@@ -1,0 +1,20 @@
+{
+  "name": "musictheorybot",
+  "version": "1.0.0",
+  "description": "A Q and A bot to answer questions related to music theory ",
+  "main": "app.js",
+  "scripts": {
+    "test": "--test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "botbuilder-cognitiveservices": "^1.1.0",
+    "restify": "^4.3.0"
+  }
+}
